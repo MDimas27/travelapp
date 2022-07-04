@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.fontLigatures": false,
+    "editor.fontSize": 15,
+    "emmet.preferences": {
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "razor": "html",
+        "plaintext": "pug"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "emmet.syntaxProfiles": {
+    
+    }
+}
